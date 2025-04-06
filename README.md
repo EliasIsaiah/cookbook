@@ -8,3 +8,8 @@
 * upload a recipe via image upload (OCR/computer vision/AI integration)
 * scrape a recipe from a desired website
 * unit conversion utility
+
+### tech stack:
+* db: mongodb
+* backend: rocket.rs
+* frontend: react
